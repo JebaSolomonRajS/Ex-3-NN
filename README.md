@@ -1,5 +1,5 @@
 <H3>NAME : Jeba Solomon Raj S</H3>
-<H3>NAME : 212223230089</H3>
+<H3>Reg no : 212223230089</H3>
 <h3>Aim:</h3>
 To implement a perceptron for classification using Python
 <H3>Theory:</H3>
